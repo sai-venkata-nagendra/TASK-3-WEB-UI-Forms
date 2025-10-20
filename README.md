@@ -177,6 +177,7 @@ The frontend integrates with the Task 1 backend API through the following endpoi
 
 
 
+
 ## Key Features Demonstrated
 
 ### 1. Modern React Patterns
