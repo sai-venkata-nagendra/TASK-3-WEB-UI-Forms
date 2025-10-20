@@ -175,7 +175,7 @@ The frontend integrates with the Task 1 backend API through the following endpoi
 
 *View of command execution results with timestamps and output*
 
-
+### Demo video is available in screenshots folder
 
 
 ## Key Features Demonstrated
