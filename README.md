@@ -6,8 +6,8 @@ This project is a React-based web application for Task 3 of the Kaiburr assessme
 
 ## Project Information
 
-- **Candidate Name**: [Your Name Here]
-- **Submission Date**: [Current Date]
+- **Candidate Name**: Sai Venkata Nagendra
+- **Submission Date**: January 2025
 - **Task**: Task 3 - WEB UI Forms
 - **Framework**: React 18 with TypeScript
 - **UI Library**: Ant Design (Antd)
@@ -70,8 +70,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd task3-frontend
+   git clone https://github.com/sai-venkata-nagendra/TASK-3-WEB-UI-Forms.git
+   cd TASK-3-WEB-UI-Forms
    ```
 
 2. **Install dependencies**
@@ -274,9 +274,8 @@ Potential improvements for production use:
 
 ## Contact Information
 
-- **Developer**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Developer**: Sai Venkata Nagendra
+- **GitHub**: [sai-venkata-nagendra](https://github.com/sai-venkata-nagendra)
 
 ---
 
