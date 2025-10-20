@@ -152,28 +152,27 @@ The frontend integrates with the Task 1 backend API through the following endpoi
 ## Screenshots
 
 ### Application Overview
-![Main Application View](<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-28-46" src="https://github.com/user-attachments/assets/f610faef-32b0-4d92-a0f1-bfc002595d44" />
-)
+<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-28-46" src="https://github.com/user-attachments/assets/f610faef-32b0-4d92-a0f1-bfc002595d44" />
 *Main application interface showing the task management dashboard*
 
 ### Task Creation
-![Task Creation Form](<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-29-49" src="https://github.com/user-attachments/assets/2fb22312-9447-494e-bacf-bac1366d6d56" />
-)
+<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-29-49" src="https://github.com/user-attachments/assets/2fb22312-9447-494e-bacf-bac1366d6d56" />
+
 *Modal form for creating new tasks with validation*
 
 ### Task Details and Execution
-![Task Details View](<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-30-14" src="https://github.com/user-attachments/assets/ee6894db-0c54-43d9-9715-8cba02c9720a" />
-)
+<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-30-14" src="https://github.com/user-attachments/assets/ee6894db-0c54-43d9-9715-8cba02c9720a" />
+
 *Detailed view showing task information and execution history*
 
 ### Search Functionality
-![Search Results](<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-31-12" src="https://github.com/user-attachments/assets/7edc85ee-5e95-4121-8c1d-f08ede58b5f0" />
-)
+<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-31-12" src="https://github.com/user-attachments/assets/7edc85ee-5e95-4121-8c1d-f08ede58b5f0" />
+
 *Search functionality displaying filtered task results*
 
 ### Execution Output
-![Execution Output](<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-31-37" src="https://github.com/user-attachments/assets/56bad198-71e3-47f0-8a72-a16aa5230490" />
-)
+<img width="1918" height="1065" alt="Screenshot from 2025-10-20 21-31-37" src="https://github.com/user-attachments/assets/56bad198-71e3-47f0-8a72-a16aa5230490" />
+
 *View of command execution results with timestamps and output*
 
 
